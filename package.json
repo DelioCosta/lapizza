@@ -1,0 +1,19 @@
+{
+    "name": "hello-wold",
+    "version": "1.0.0",
+    "description": "Projeto Hello World em nodeJS utilizando NPM",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "nodejs",
+        "http"
+    ],
+    "author": "Délio <deliocqcosta@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "nodemon": "^2.0.16",
+        "query-string": "^7.1.1"
+    }
+}
